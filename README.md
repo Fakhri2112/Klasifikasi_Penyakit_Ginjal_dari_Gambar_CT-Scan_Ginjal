@@ -1,0 +1,2 @@
+# Klasifikasi_Penyakit_Ginjal_dari_Gambar_CT-Scan_Ginjal
+https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone Dataset merupakan Potongan Coronal dan Axial yang dikumpulkan dari PACS (Picture archiving and communication system) dari berbagai rumah sakit di Dhaka, Bangladesh. Didapat dari pasien-pasien dengan diagnosis tumor ginjal, kista, temuan normal atau batu.
